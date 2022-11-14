@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Тайник</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="morse">Морзе</string>
+    <string name="doubleCode">Двоичный код</string>
+    <string name="bMorse">Морзе</string>
+    <string name="bDobCode">Двоичный код</string>
+
+
+</resources>
+
